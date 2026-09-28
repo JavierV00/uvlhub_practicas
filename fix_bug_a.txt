@@ -1,0 +1,2 @@
+Crea un fichero fix_bug_a.txt en la raíz, con el contenido que quieras, y confírmalo con el
+mensaje fix: fix important bug (developer A) .
